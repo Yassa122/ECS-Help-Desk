@@ -14,7 +14,7 @@ This project is built using a robust stack of frontend technologies, ensuring a 
 - **Context API**: Utilizing React's Context API for state management, we ensure a smooth and coherent state flow across different components.
 - **Custom Hooks**: Custom React hooks are employed to encapsulate and manage the application's logic, promoting code reuse and simplicity.
 - **SVGs and Assets**: The use of SVGs and other assets enhances the visual appeal and user experience of the application.
-
+ 
 ## Screenshots
 
 ![Alt text](https://i.imgur.com/Qzy1f7C.png)
