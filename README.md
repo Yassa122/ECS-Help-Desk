@@ -4,6 +4,7 @@ https://ecs-project-omega.vercel.app
 ## Introduction
 Welcome to our comprehensive web application, designed to streamline and enhance user interaction and data visualization. This project is an amalgamation of modern web technologies and best practices, tailored to create an intuitive and responsive user experience. From interactive charts and data management to user authentication and messaging, our application covers a wide array of functionalities, making it versatile for various use cases.
 
+
 ## Technologies Used
 This project is built using a robust stack of frontend technologies, ensuring a seamless and dynamic user experience:
 
